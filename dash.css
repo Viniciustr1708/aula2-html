@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #ecf0f1
+}
+
+.cont_graficos{
+    max-width: 1280px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.cont_h1{
+    text-align: center;
+    border-bottom: 3px solid orangered;
+}
+
+.grafico_bar{
+    width: 40%;
+    float: left;
+}
+
+.grafico_linha{
+    width: 25%;
+    float: right;
+    margin-right: 9%;
+
+}
